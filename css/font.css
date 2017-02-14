@@ -1,0 +1,5 @@
+@font-face {
+    font-family: 'GTamerica';
+    font-weight: normal;
+    src: link("css/font/GTAmericaRegular.otf") format("opentype");
+}
